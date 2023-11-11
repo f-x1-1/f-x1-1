@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-x1-1&label=Profile%20views&color=0e75b6&style=flat" alt="f-x1-1" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** **CyberSecurity** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
