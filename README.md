@@ -3,13 +3,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Fahad Zafar</h1>
-<h3 align="center">A passionate web developer from United Kingdom</h3>
+<h3 align="center">A Tinkerer</h3>
 
 <img align="right" alt="Coding" with="400" src="https://imgs.search.brave.com/2WEDKSId23C2oQ1Bpbg0uPByvnw44Qw8i8MBKyWIerc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-x1-1&label=Profile%20views&color=0e75b6&style=flat" alt="f-x1-1" /> </p>
 
-- 🌱 I’m currently learning **React Native**, **CyberSecurity** 
+- 🌱 I’m currently learning **CyberSecurity** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
