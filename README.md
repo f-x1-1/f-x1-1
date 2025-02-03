@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Fahad Zafar</h1>
+<h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">A Tinkerer</h3>
 
 <img align="right" alt="Coding" with="400" src="https://imgs.search.brave.com/2WEDKSId23C2oQ1Bpbg0uPByvnw44Qw8i8MBKyWIerc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif">
